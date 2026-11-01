@@ -1,0 +1,5 @@
+Student: Callangan
+Student ID: TUPM-26-4342
+SEED_DIGIT: 2
+ID_sum: 21
+Verification value: 191

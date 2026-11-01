@@ -1,0 +1,11 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Callangan
+Student ID: TUPM-26-4342
+Seed Digit: 2
+ID Sum: 21
+Verification Value: 191
+Dataset Sample Size: 71
+Valid Records: 71
+Average Global Active Power: 4.015JSON file: Callangan_TUPM-26-4342_record.json
+Backup file: Callangan_TUPM-26-4342_record.csv
